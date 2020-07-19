@@ -56,3 +56,7 @@
 
 		sudo apt-get update
 		sudo apt-get install default-jdk
+		
+### solving busy box error
+		
+		fsck /Dev/sda1 or fsck /Dev/sda2
