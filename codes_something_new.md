@@ -61,7 +61,7 @@
 		
 		fsck /Dev/sda1 or fsck /Dev/sda2
 		
-	after this press y for all upcomming options and the 
+after this press y for all upcomming options and then 
 
 		reboot
 		
